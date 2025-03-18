@@ -4,7 +4,19 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+
+I'm a front-end developer with experience in UX, currently in the final semesters of my systems engineering degree. I'm focused on creating intuitive and engaging interfaces and expanding my skills to the backend. I've participated in various software projects and am passionate about open source collaboration.
+
+- 🌱 I’m currently learning ...
+  - Nest.js
+  - Angular
+  - AWS
+-    💻I'm passionate about software development and its continuous improvement.
+- 👯 I have a knack for teamwork <br>
+-  ❤️ I love generating innovative solutions.
+- 👾I'm very open to exploring and learning new areas.
+- 📫 Reach out to me at: <a href="lopezmany111@gmail.com">lopezmany111@gmail.com</a>
+
 
 
 ## My Skills Include
